@@ -1,2 +1,2 @@
-- 🌱 Learning: *Writing an Interpreter in Go* - Thorsten Ball
-- 💻 Tinkering: Haskell
+- 🌱 Learning: *The Lost Chapter A Macro System For Monkey* - Thorsten Ball 2/17/25-
+- 💻 Tinkering: Go, Nand2Tetris, Arduino
