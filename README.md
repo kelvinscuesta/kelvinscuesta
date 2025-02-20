@@ -1,2 +1,2 @@
-- 🌱 Learning: *The Lost Chapter A Macro System For Monkey* - Thorsten Ball 2/17/25-
+- 🌱 Learning: *Writing a Compiler in Go* - Thorsten Ball 2/20/25-
 - 💻 Tinkering: Go, Nand2Tetris, Arduino
